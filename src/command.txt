@@ -1,0 +1,5 @@
+g++  -std=c++17  SimOS.h SimOS.cpp CPU.h CPU.cpp incomplete_test.cpp -o run-me
+
+g++  -std=c++17  SimOS.h SimOS.cpp CPU.h CPU.cpp main.cpp -o run-me
+
+g++  -std=c++17  SimOS.h SimOS.cpp incomplete_test.cpp -o run-me
